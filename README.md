@@ -1,5 +1,5 @@
 ﻿# Rider_Helmet_Detection
-This repository contains code and resources for detecting rider helmets in real-time videos and images using YOLOv3 (You Only Look Once version 3).
+This repository contains code and resources for detecting rider helmets in real-time videos and images using YOLOv3(You Only Look Once version 3).
 
 ## Introduction
 
